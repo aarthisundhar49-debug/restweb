@@ -1,5 +1,5 @@
 # Ex.07 Restaurant Website
-## Date:
+## Date:1.10.2025
 
 ## AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
@@ -28,6 +28,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -185,7 +186,7 @@ Publish the website in the given URL.
         <span>$12</span>
       </div>
       <div class="menu-item">
-        <img src="https://images.unsplash.com/photo-1562967914-608f82629710" alt="Salad">
+        <img src="Screenshot 2025-10-01 150035.png" alt="Salad">
         <h3>Caesar Salad</h3>
         <span>$8</span>
       </div>
@@ -226,6 +227,7 @@ Publish the website in the given URL.
 </body>
 </html>
 
+```
 
 ## OUTPUT:
 ![alt text](<Screenshot 2025-09-30 161850.png>)
